@@ -1,0 +1,38 @@
+[
+  {
+    "company": {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f75505/66f2f083f5b8de8e38f75551_company-05.png",
+      "name": "Company XYZ"
+    },
+    "text": "”One of the main advantages of posting jobs on Devtask is the skill level of the applicants. Some of the best talents in our team were found here.”",
+    "author": "John Wick, CTO",
+    "results": [
+      {
+        "title": "3-4x faster",
+        "text": "to find our talents"
+      },
+      {
+        "title": "+30",
+        "text": "professionals hired"
+      }
+    ]
+  },
+  {
+    "company": {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f75505/66f2f083f5b8de8e38f75552_tommy.png",
+      "name": "Tommy Abha"
+    },
+    "text": "”Using Devtalk lead me to amazing freelancing gigs and ultimately to a dream job at a major tech company.”",
+    "author": "iOS developer at RockCode",
+    "results": [
+      {
+        "title": "+40",
+        "text": "freelancing gigs"
+      },
+      {
+        "title": "1",
+        "text": "full-time hiring"
+      }
+    ]
+  }
+]
