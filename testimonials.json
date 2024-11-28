@@ -37,278 +37,274 @@
       ]
     }
   ],
-  "jobs":[
-    {
-      "featuredJobs": [
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66e9839528db1d093c7c83a9/66e98a940b581015b5f0b357_company-01.png",
-          "companyName": "Company XY",
-          "jobType": "Full-time",
-          "position": "Senior iOS Developer",
-          "tags": {
-            "feature": "In the spotlight",
-            "location": "New York, USA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75516_company-05.png",
-          "companyName": "Company MN",
-          "jobType": "Full-time",
-          "position": "AI / ML Engineer",
-          "tags": {
-            "feature": "In the spotlight",
-            "location": "San Francisco, USA",
-            "workType": ""
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75517_company-06.png",
-          "companyName": "Company RN",
-          "jobType": "Full-time",
-          "position": "Senior Full Stack Developer (React & Node JS)",
-          "tags": {
-            "feature": "In the spotlight",
-            "location": "Montreal, CA",
-            "workType": ""
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75513_company-02.png",
-          "companyName": "Company BB",
-          "jobType": "Freelancer",
-          "position": "Android/Kotlin Developer",
-          "tags": {
-            "feature": "In the spotlight",
-            "location": "Quebec, CA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75515_company-04.png",
-          "companyName": "Company JG",
-          "jobType": "Internship",
-          "position": "Flutter Application Developer",
-          "tags": {
-            "feature": "In the spotlight",
-            "location": "Dublin, IR",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75514_company-03.png",
-          "companyName": "Company HH",
-          "jobType": "Full-time",
-          "position": "Senior C# . Net Application Developer",
-          "tags": {
-            "feature": "In the spotlight",
-            "location": "Austin, USA",
-            "workType": ""
-          }
+  "jobs":{
+    "featuredJobs": [
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66e9839528db1d093c7c83a9/66e98a940b581015b5f0b357_company-01.png",
+        "companyName": "Company XY",
+        "jobType": "Full-time",
+        "position": "Senior iOS Developer",
+        "tags": {
+          "feature": "In the spotlight",
+          "location": "New York, USA",
+          "workType": "Remote"
         }
-      ]
-    },
-    {
-      "recentJobs": [
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75518_company-07.png",
-          "companyName": "Company AQ",
-          "jobType": "Freelancer",
-          "position": "React Native Mobile Developer",
-          "tags": {
-            "date": "Sep 14, 2024",
-            "location": "In the spotlight",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75519_company-08.png",
-          "companyName": "Company LK",
-          "jobType": "Full-time",
-          "position": "Senior JavaScript Developer",
-          "tags": {
-            "date": "Sep 13, 2024",
-            "location": "Atlanta, USA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551a_company-09.png",
-          "companyName": "Company PD",
-          "jobType": "Part-time",
-          "position": "Python Developer",
-          "tags": {
-            "date": "Sep 13, 2024",
-            "location": "London, UK",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551b_company-10.png",
-          "companyName": "Company RT",
-          "jobType": "Internship",
-          "position": "PHP Developer",
-          "tags": {
-            "date": "Sep 12, 2024",
-            "location": "Amsterdam, NL",
-            "workType": ""
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551c_company-11.png",
-          "companyName": "Company IU",
-          "jobType": "Full-time",
-          "position": "Senior Web Developer",
-          "tags": {
-            "date": "Sep 11, 2024",
-            "location": "Berlin, GER",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551d_company-12.png",
-          "companyName": "Company OB",
-          "jobType": "Full-time",
-          "position": "Java Developer",
-          "tags": {
-            "date": "Sep 10, 2024",
-            "location": "Seatle, USA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551e_company-13.png",
-          "companyName": "Company SS",
-          "jobType": "Freelancer",
-          "position": "Software Engineer (C++)",
-          "tags": {
-            "date": "Sep 9, 2024",
-            "location": "Denver, USA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551f_company-14.png",
-          "companyName": "Company KW",
-          "jobType": "Full-time",
-          "position": "Swift UI Developer (iOS, macOS, watchOS)",
-          "tags": {
-            "date": "Sep 8, 2024",
-            "location": "San Francisco, USA",
-            "workType": ""
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75520_company-15.png",
-          "companyName": "Company DS",
-          "jobType": "Internship",
-          "position": "Ruby on Rails Developer",
-          "tags": {
-            "date": "Sep 7, 2024",
-            "location": "Boston, USA",
-            "workType": ""
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75521_company-16.png",
-          "companyName": "Company FF",
-          "jobType": "Full-time",
-          "position": "AWS Full Stack Enginner (Node.js, TypeScript)",
-          "tags": {
-            "date": "Sep 6, 2024",
-            "location": "Madrid, SP",
-            "workType": ""
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75522_company-17.png",
-          "companyName": "Company CV",
-          "jobType": "Part-time",
-          "position": "Kotlin Multiplatform Mobile (KMM) Developer",
-          "tags": {
-            "date": "Sep 5, 2024",
-            "location": "Paris, FR",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75523_company-18.png",
-          "companyName": "Company FT",
-          "jobType": "Freelancer",
-          "position": "Python + SQL Developer",
-          "tags": {
-            "date": "Sep 5, 2024",
-            "location": "Zurich, SZ",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75524_company-19.png",
-          "companyName": "Company PS",
-          "jobType": "Freelancer",
-          "position": "Senior React Native Developer (iOS / Android Apps)",
-          "tags": {
-            "date": "Sep 4, 2024",
-            "location": "San Francisco, USA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75525_company-20.png",
-          "companyName": "Company AR",
-          "jobType": "Freelancer",
-          "position": "iOS Developer",
-          "tags": {
-            "date": "Sep 3, 2024",
-            "location": "New York , USA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75526_company-21.png",
-          "companyName": "Company DY",
-          "jobType": "Freelancer",
-          "position": "Flutter Developer (iOS / Android Apps)",
-          "tags": {
-            "date": "Sep 2, 2024",
-            "location": "São Paulo, BR",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75527_company-22.png",
-          "companyName": "Company BJ",
-          "jobType": "Full-time",
-          "position": "Data Scientist (AI \\ Machine Learning)",
-          "tags": {
-            "date": "Aug 1, 2024",
-            "location": "San Francisco, USA",
-            "workType": ""
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7554d_company-23.png",
-          "companyName": "Company AX",
-          "jobType": "Part-time",
-          "position": "FrontEnd Developer (React, Next.js)",
-          "tags": {
-            "date": "Aug 31, 2024",
-            "location": "Vancouver, CA",
-            "workType": "Remote"
-          }
-        },
-        {
-          "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7556c_company-24.png",
-          "companyName": "Company JZ",
-          "jobType": "Full-time",
-          "position": "Senior Full Stack JavaScript Developer",
-          "tags": {
-            "date": "Aug 30, 2024",
-            "location": "Seattle, USA",
-            "workType": ""
-          }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75516_company-05.png",
+        "companyName": "Company MN",
+        "jobType": "Full-time",
+        "position": "AI / ML Engineer",
+        "tags": {
+          "feature": "In the spotlight",
+          "location": "San Francisco, USA",
+          "workType": ""
         }
-      ]
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75517_company-06.png",
+        "companyName": "Company RN",
+        "jobType": "Full-time",
+        "position": "Senior Full Stack Developer (React & Node JS)",
+        "tags": {
+          "feature": "In the spotlight",
+          "location": "Montreal, CA",
+          "workType": ""
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75513_company-02.png",
+        "companyName": "Company BB",
+        "jobType": "Freelancer",
+        "position": "Android/Kotlin Developer",
+        "tags": {
+          "feature": "In the spotlight",
+          "location": "Quebec, CA",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75515_company-04.png",
+        "companyName": "Company JG",
+        "jobType": "Internship",
+        "position": "Flutter Application Developer",
+        "tags": {
+          "feature": "In the spotlight",
+          "location": "Dublin, IR",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75514_company-03.png",
+        "companyName": "Company HH",
+        "jobType": "Full-time",
+        "position": "Senior C# . Net Application Developer",
+        "tags": {
+          "feature": "In the spotlight",
+          "location": "Austin, USA",
+          "workType": ""
+        }
+      }
+    ],
+    "recentJobs": [
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75518_company-07.png",
+        "companyName": "Company AQ",
+        "jobType": "Freelancer",
+        "position": "React Native Mobile Developer",
+        "tags": {
+          "date": "Sep 14, 2024",
+          "location": "In the spotlight",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75519_company-08.png",
+        "companyName": "Company LK",
+        "jobType": "Full-time",
+        "position": "Senior JavaScript Developer",
+        "tags": {
+          "date": "Sep 13, 2024",
+          "location": "Atlanta, USA",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551a_company-09.png",
+        "companyName": "Company PD",
+        "jobType": "Part-time",
+        "position": "Python Developer",
+        "tags": {
+          "date": "Sep 13, 2024",
+          "location": "London, UK",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551b_company-10.png",
+        "companyName": "Company RT",
+        "jobType": "Internship",
+        "position": "PHP Developer",
+        "tags": {
+          "date": "Sep 12, 2024",
+          "location": "Amsterdam, NL",
+          "workType": ""
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551c_company-11.png",
+        "companyName": "Company IU",
+        "jobType": "Full-time",
+        "position": "Senior Web Developer",
+        "tags": {
+          "date": "Sep 11, 2024",
+          "location": "Berlin, GER",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551d_company-12.png",
+        "companyName": "Company OB",
+        "jobType": "Full-time",
+        "position": "Java Developer",
+        "tags": {
+          "date": "Sep 10, 2024",
+          "location": "Seatle, USA",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551e_company-13.png",
+        "companyName": "Company SS",
+        "jobType": "Freelancer",
+        "position": "Software Engineer (C++)",
+        "tags": {
+          "date": "Sep 9, 2024",
+          "location": "Denver, USA",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551f_company-14.png",
+        "companyName": "Company KW",
+        "jobType": "Full-time",
+        "position": "Swift UI Developer (iOS, macOS, watchOS)",
+        "tags": {
+          "date": "Sep 8, 2024",
+          "location": "San Francisco, USA",
+          "workType": ""
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75520_company-15.png",
+        "companyName": "Company DS",
+        "jobType": "Internship",
+        "position": "Ruby on Rails Developer",
+        "tags": {
+          "date": "Sep 7, 2024",
+          "location": "Boston, USA",
+          "workType": ""
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75521_company-16.png",
+        "companyName": "Company FF",
+        "jobType": "Full-time",
+        "position": "AWS Full Stack Enginner (Node.js, TypeScript)",
+        "tags": {
+          "date": "Sep 6, 2024",
+          "location": "Madrid, SP",
+          "workType": ""
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75522_company-17.png",
+        "companyName": "Company CV",
+        "jobType": "Part-time",
+        "position": "Kotlin Multiplatform Mobile (KMM) Developer",
+        "tags": {
+          "date": "Sep 5, 2024",
+          "location": "Paris, FR",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75523_company-18.png",
+        "companyName": "Company FT",
+        "jobType": "Freelancer",
+        "position": "Python + SQL Developer",
+        "tags": {
+          "date": "Sep 5, 2024",
+          "location": "Zurich, SZ",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75524_company-19.png",
+        "companyName": "Company PS",
+        "jobType": "Freelancer",
+        "position": "Senior React Native Developer (iOS / Android Apps)",
+        "tags": {
+          "date": "Sep 4, 2024",
+          "location": "San Francisco, USA",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75525_company-20.png",
+        "companyName": "Company AR",
+        "jobType": "Freelancer",
+        "position": "iOS Developer",
+        "tags": {
+          "date": "Sep 3, 2024",
+          "location": "New York , USA",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75526_company-21.png",
+        "companyName": "Company DY",
+        "jobType": "Freelancer",
+        "position": "Flutter Developer (iOS / Android Apps)",
+        "tags": {
+          "date": "Sep 2, 2024",
+          "location": "São Paulo, BR",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75527_company-22.png",
+        "companyName": "Company BJ",
+        "jobType": "Full-time",
+        "position": "Data Scientist (AI \\ Machine Learning)",
+        "tags": {
+          "date": "Aug 1, 2024",
+          "location": "San Francisco, USA",
+          "workType": ""
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7554d_company-23.png",
+        "companyName": "Company AX",
+        "jobType": "Part-time",
+        "position": "FrontEnd Developer (React, Next.js)",
+        "tags": {
+          "date": "Aug 31, 2024",
+          "location": "Vancouver, CA",
+          "workType": "Remote"
+        }
+      },
+      {
+        "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7556c_company-24.png",
+        "companyName": "Company JZ",
+        "jobType": "Full-time",
+        "position": "Senior Full Stack JavaScript Developer",
+        "tags": {
+          "date": "Aug 30, 2024",
+          "location": "Seattle, USA",
+          "workType": ""
+        }
+      }
+    ]
     }
-  ]
 }
