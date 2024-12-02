@@ -1,0 +1,16 @@
+{
+  "name": "C#",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75514_company-03.png",
+      "companyName": "Company HH",
+      "jobType": "Full-time",
+      "position": "Senior C# . Net Application Developer",
+      "tags": {
+        "feature": "In the spotlight",
+        "location": "Austin, USA",
+        "workType": ""
+      }
+    }
+  ]
+}

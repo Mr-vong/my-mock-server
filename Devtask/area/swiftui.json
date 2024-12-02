@@ -1,0 +1,38 @@
+{
+  "name": "SwiftUI",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66e9839528db1d093c7c83a9/66e98a940b581015b5f0b357_company-01.png",
+      "companyName": "Company XY",
+      "jobType": "Full-time",
+      "position": "Senior iOS Developer",
+      "tags": {
+        "feature": "In the spotlight",
+        "location": "New York, USA",
+        "workType": "Remote"
+      }
+    },
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551f_company-14.png",
+      "companyName": "Company KW",
+      "jobType": "Full-time",
+      "position": "Swift UI Developer (iOS, macOS, watchOS)",
+      "tags": {
+        "date": "Sep 8, 2024",
+        "location": "San Francisco, USA",
+        "workType": ""
+      }
+    },
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75525_company-20.png",
+      "companyName": "Company AR",
+      "jobType": "Freelancer",
+      "position": "iOS Developer",
+      "tags": {
+        "date": "Sep 3, 2024",
+        "location": "New York , USA",
+        "workType": "Remote"
+      }
+    }
+  ]
+}

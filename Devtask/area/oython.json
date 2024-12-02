@@ -1,0 +1,27 @@
+{
+  "name": "Python",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551a_company-09.png",
+      "companyName": "Company PD",
+      "jobType": "Part-time",
+      "position": "Python Developer",
+      "tags": {
+        "date": "Sep 13, 2024",
+        "location": "London, UK",
+        "workType": "Remote"
+      }
+    },
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75523_company-18.png",
+      "companyName": "Company FT",
+      "jobType": "Freelancer",
+      "position": "Python + SQL Developer",
+      "tags": {
+        "date": "Sep 5, 2024",
+        "location": "Zurich, SZ",
+        "workType": "Remote"
+      }
+    }
+  ]
+}

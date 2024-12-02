@@ -1,0 +1,27 @@
+{
+  "name": "Flutter",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75515_company-04.png",
+      "companyName": "Company JG",
+      "jobType": "Internship",
+      "position": "Flutter Application Developer",
+      "tags": {
+        "feature": "In the spotlight",
+        "location": "Dublin, IR",
+        "workType": "Remote"
+      }
+    },
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75526_company-21.png",
+      "companyName": "Company DY",
+      "jobType": "Freelancer",
+      "position": "Flutter Developer (iOS / Android Apps)",
+      "tags": {
+        "date": "Sep 2, 2024",
+        "location": "São Paulo, BR",
+        "workType": "Remote"
+      }
+    }
+  ]
+}

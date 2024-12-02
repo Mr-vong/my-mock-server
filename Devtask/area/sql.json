@@ -1,0 +1,16 @@
+{
+  "name": "SQL",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75523_company-18.png",
+      "companyName": "Company FT",
+      "jobType": "Freelancer",
+      "position": "Python + SQL Developer",
+      "tags": {
+        "date": "Sep 5, 2024",
+        "location": "Zurich, SZ",
+        "workType": "Remote"
+      }
+    }
+  ]
+}

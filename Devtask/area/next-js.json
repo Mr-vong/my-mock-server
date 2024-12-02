@@ -1,0 +1,27 @@
+{
+  "name": "Next.js",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7554d_company-23.png",
+      "companyName": "Company AX",
+      "jobType": "Part-time",
+      "position": "FrontEnd Developer (React, Next.js)",
+      "tags": {
+        "date": "Aug 31, 2024",
+        "location": "Vancouver, CA",
+        "workType": "Remote"
+      }
+    },
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7556c_company-24.png",
+      "companyName": "Company JZ",
+      "jobType": "Full-time",
+      "position": "Senior Full Stack JavaScript Developer",
+      "tags": {
+        "date": "Aug 30, 2024",
+        "location": "Seattle, USA",
+        "workType": ""
+      }
+    }
+  ]
+}

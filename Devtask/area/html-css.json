@@ -1,0 +1,16 @@
+{
+  "name": "HTML/CSS",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551c_company-11.png",
+      "companyName": "Company IU",
+      "jobType": "Full-time",
+      "position": "Senior Web Developer",
+      "tags": {
+        "date": "Sep 11, 2024",
+        "location": "Berlin, GER",
+        "workType": "Remote"
+      }
+    }
+  ]
+}

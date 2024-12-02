@@ -1,0 +1,16 @@
+{
+  "name": "java",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75519_company-08.png",
+      "companyName": "Company LK",
+      "jobType": "Full-time",
+      "position": "Senior JavaScript Developer",
+      "tags": {
+        "date": "Sep 13, 2024",
+        "location": "Atlanta, USA",
+        "workType": "Remote"
+      }
+    }
+  ]
+}

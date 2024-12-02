@@ -1,0 +1,27 @@
+{
+  "name": "Machine Learning",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75516_company-05.png",
+      "companyName": "Company MN",
+      "jobType": "Full-time",
+      "position": "AI / ML Engineer",
+      "tags": {
+        "feature": "In the spotlight",
+        "location": "San Francisco, USA",
+        "workType": ""
+      }
+    },
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75527_company-22.png",
+      "companyName": "Company BJ",
+      "jobType": "Full-time",
+      "position": "Data Scientist (AI \\ Machine Learning)",
+      "tags": {
+        "date": "Aug 1, 2024",
+        "location": "San Francisco, USA",
+        "workType": ""
+      }
+    }
+  ]
+}

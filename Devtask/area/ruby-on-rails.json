@@ -1,0 +1,16 @@
+{
+  "name": "Ruby on Rails",
+  "data": [
+    {
+      "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75520_company-15.png",
+      "companyName": "Company DS",
+      "jobType": "Internship",
+      "position": "Ruby on Rails Developer",
+      "tags": {
+        "date": "Sep 7, 2024",
+        "location": "Boston, USA",
+        "workType": ""
+      }
+    }
+  ]
+}
