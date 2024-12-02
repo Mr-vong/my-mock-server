@@ -40,6 +40,7 @@
   "jobs":{
     "featuredJobs": [
       {
+        "pathParam" : "senior-ios-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66e9839528db1d093c7c83a9/66e98a940b581015b5f0b357_company-01.png",
         "companyName": "Company XY",
         "jobType": "Full-time",
@@ -51,6 +52,7 @@
         }
       },
       {
+        "pathParam" : "ai-ml-engineer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75516_company-05.png",
         "companyName": "Company MN",
         "jobType": "Full-time",
@@ -62,6 +64,7 @@
         }
       },
       {
+        "pathParam" : "senior-full-stack-developer-react-node-js",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75517_company-06.png",
         "companyName": "Company RN",
         "jobType": "Full-time",
@@ -73,6 +76,7 @@
         }
       },
       {
+        "pathParam" : "android-kotlin-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75513_company-02.png",
         "companyName": "Company BB",
         "jobType": "Freelancer",
@@ -84,6 +88,7 @@
         }
       },
       {
+        "pathParam" : "flutter-application-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75515_company-04.png",
         "companyName": "Company JG",
         "jobType": "Internship",
@@ -95,6 +100,7 @@
         }
       },
       {
+        "pathParam" : "senior-c-net-application-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75514_company-03.png",
         "companyName": "Company HH",
         "jobType": "Full-time",
@@ -108,6 +114,7 @@
     ],
     "recentJobs": [
       {
+        "pathParam" : "react-native-mobile-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75518_company-07.png",
         "companyName": "Company AQ",
         "jobType": "Freelancer",
@@ -119,6 +126,7 @@
         }
       },
       {
+        "pathParam" : "senior-javascript-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75519_company-08.png",
         "companyName": "Company LK",
         "jobType": "Full-time",
@@ -130,6 +138,7 @@
         }
       },
       {
+        "pathParam" : "python-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551a_company-09.png",
         "companyName": "Company PD",
         "jobType": "Part-time",
@@ -141,6 +150,7 @@
         }
       },
       {
+        "pathParam" : "php-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551b_company-10.png",
         "companyName": "Company RT",
         "jobType": "Internship",
@@ -152,6 +162,7 @@
         }
       },
       {
+        "pathParam" : "senior-web-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551c_company-11.png",
         "companyName": "Company IU",
         "jobType": "Full-time",
@@ -163,6 +174,7 @@
         }
       },
       {
+        "pathParam" : "java-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551d_company-12.png",
         "companyName": "Company OB",
         "jobType": "Full-time",
@@ -174,6 +186,7 @@
         }
       },
       {
+        "pathParam" : "software-engineer-cpp",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551e_company-13.png",
         "companyName": "Company SS",
         "jobType": "Freelancer",
@@ -185,6 +198,7 @@
         }
       },
       {
+        "pathParam" : "swift-ui-developer-ios-macos-watchos",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551f_company-14.png",
         "companyName": "Company KW",
         "jobType": "Full-time",
@@ -196,6 +210,7 @@
         }
       },
       {
+        "pathParam" : "ruby-on-rails-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75520_company-15.png",
         "companyName": "Company DS",
         "jobType": "Internship",
@@ -207,6 +222,7 @@
         }
       },
       {
+        "pathParam" : "aws-full-stack-enginner-node-js-typescript",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75521_company-16.png",
         "companyName": "Company FF",
         "jobType": "Full-time",
@@ -218,6 +234,7 @@
         }
       },
       {
+        "pathParam" : "kotlin-multiplatform-mobile-kmm-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75522_company-17.png",
         "companyName": "Company CV",
         "jobType": "Part-time",
@@ -229,6 +246,7 @@
         }
       },
       {
+        "pathParam" : "python-sql-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75523_company-18.png",
         "companyName": "Company FT",
         "jobType": "Freelancer",
@@ -240,6 +258,7 @@
         }
       },
       {
+        "pathParam" : "senior-react-native-developer-ios-android-apps",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75524_company-19.png",
         "companyName": "Company PS",
         "jobType": "Freelancer",
@@ -251,6 +270,7 @@
         }
       },
       {
+        "pathParam" : "ios-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75525_company-20.png",
         "companyName": "Company AR",
         "jobType": "Freelancer",
@@ -262,6 +282,7 @@
         }
       },
       {
+        "pathParam" : "flutter-developer-ios-android-apps",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75526_company-21.png",
         "companyName": "Company DY",
         "jobType": "Freelancer",
@@ -273,6 +294,7 @@
         }
       },
       {
+        "pathParam" : "data-scientist-ai-machine-learning",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75527_company-22.png",
         "companyName": "Company BJ",
         "jobType": "Full-time",
@@ -284,6 +306,7 @@
         }
       },
       {
+        "pathParam" : "frontend-developer-react-next-js",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7554d_company-23.png",
         "companyName": "Company AX",
         "jobType": "Part-time",
@@ -295,6 +318,7 @@
         }
       },
       {
+        "pathParam" : "senior-full-stack-javascript-developer",
         "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7556c_company-24.png",
         "companyName": "Company JZ",
         "jobType": "Full-time",
