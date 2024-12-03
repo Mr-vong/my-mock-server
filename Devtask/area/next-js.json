@@ -2,7 +2,7 @@
   "name": "Next.js",
   "data": [
     {
-      "pathName": "frontend-developer-react-next-js",
+      "pathParam": "frontend-developer-react-next-js",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7554d_company-23.png",
       "companyName": "Company AX",
       "jobType": "Part-time",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "pathName": "senior-full-stack-javascript-developer",
+      "pathParam": "senior-full-stack-javascript-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7556c_company-24.png",
       "companyName": "Company JZ",
       "jobType": "Full-time",

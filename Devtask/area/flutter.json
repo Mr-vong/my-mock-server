@@ -2,7 +2,7 @@
   "name": "Flutter",
   "data": [
     {
-      "pathName": "flutter-application-developer",
+      "pathParam": "flutter-application-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75515_company-04.png",
       "companyName": "Company JG",
       "jobType": "Internship",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "pathName": "flutter-developer-ios-android-apps",
+      "pathParam": "flutter-developer-ios-android-apps",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75526_company-21.png",
       "companyName": "Company DY",
       "jobType": "Freelancer",

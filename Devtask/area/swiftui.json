@@ -2,7 +2,7 @@
   "name": "SwiftUI",
   "data": [
     {
-      "pathName": "senior-ios-developer",
+      "pathParam": "senior-ios-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66e9839528db1d093c7c83a9/66e98a940b581015b5f0b357_company-01.png",
       "companyName": "Company XY",
       "jobType": "Full-time",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "pathName": "swift-ui-developer-ios-macos-watchos",
+      "pathParam": "swift-ui-developer-ios-macos-watchos",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551f_company-14.png",
       "companyName": "Company KW",
       "jobType": "Full-time",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "pathName": "ios-developer",
+      "pathParam": "ios-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75525_company-20.png",
       "companyName": "Company AR",
       "jobType": "Freelancer",

@@ -2,7 +2,7 @@
   "name": "Python",
   "data": [
     {
-      "pathName": "python-developer",
+      "pathParam": "python-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7551a_company-09.png",
       "companyName": "Company PD",
       "jobType": "Part-time",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "pathName": "python-sql-developer",
+      "pathParam": "python-sql-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75523_company-18.png",
       "companyName": "Company FT",
       "jobType": "Freelancer",

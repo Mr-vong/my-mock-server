@@ -2,7 +2,7 @@
   "name": "Node.js",
   "data": [
     {
-      "pathName": "senior-full-stack-developer-react-node-js",
+      "pathParam": "senior-full-stack-developer-react-node-js",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75517_company-06.png",
       "companyName": "Company RN",
       "jobType": "Full-time",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "pathName": "aws-full-stack-enginner-node-js-typescript",
+      "pathParam": "aws-full-stack-enginner-node-js-typescript",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75521_company-16.png",
       "companyName": "Company FF",
       "jobType": "Full-time",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "pathName": "senior-full-stack-javascript-developer",
+      "pathParam": "senior-full-stack-javascript-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f7556c_company-24.png",
       "companyName": "Company JZ",
       "jobType": "Full-time",

@@ -2,7 +2,7 @@
   "name": "Machine Learning",
   "data": [
     {
-      "pathName": "ai-ml-engineer",
+      "pathParam": "ai-ml-engineer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75516_company-05.png",
       "companyName": "Company MN",
       "jobType": "Full-time",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "pathName": "data-scientist-ai-machine-learning",
+      "pathParam": "data-scientist-ai-machine-learning",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75527_company-22.png",
       "companyName": "Company BJ",
       "jobType": "Full-time",
