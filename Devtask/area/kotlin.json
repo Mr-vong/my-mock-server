@@ -2,6 +2,7 @@
   "name": "Kotlin",
   "data": [
     {
+      "pathName": "android-kotlin-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75513_company-02.png",
       "companyName": "Company BB",
       "jobType": "Freelancer",
@@ -13,6 +14,7 @@
       }
     },
     {
+      "pathName": "kotlin-multiplatform-mobile-kmm-developer",
       "imgUrl": "https://cdn.prod.website-files.com/66f2f083f5b8de8e38f7550b/66f2f083f5b8de8e38f75522_company-17.png",
       "companyName": "Company CV",
       "jobType": "Part-time",
